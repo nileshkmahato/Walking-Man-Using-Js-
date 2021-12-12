@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    padding: 0%;
+
+}
+#Back{
+    background: url(back.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 420px;
+}
+#road{
+    background: url(road.jpg);
+}
+#img{
+    width:250px;
+}
+
+#btn{
+        background-color:cadetblue;
+        width: 80px;
+        font-size: 25px;
+        cursor: pointer;
+        margin-top: 30px;
+    }
+#dbtn{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
